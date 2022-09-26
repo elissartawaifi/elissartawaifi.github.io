@@ -12,6 +12,7 @@
 }
 
 body {
+  overflow: hidden;
   text-align: center;
   background-color: #414dbde6;
   font-family: "Russo One", sans-serif;
